@@ -3,8 +3,8 @@ layout: page
 title: Nosotros
 permalink: /about/
 ---
-La Fundación Centro de Estudio Alcalde Poblete nace de la voluntad de sus fundadores de contribuir al conocimiento riguroso y objetivo de los impactos sociales, económicos y políticos que la actividad minera genera en la Región de Antofagasta y en el país.
+# Manuel A.Marambio M.
 
-[Párrafo de contexto a completar: breve descripción del origen, motivación y visión de largo plazo de la fundación.]
+Contador de profesión y amante de la tecnologia.  Los estudios aqui presentado son solicitudes de amistades, instituciones y otros y fueron desarrollados para fines especificos basados en la información pública que se puede obtener referente al tema. 
 
-En el ejercicio de esa misión, la Fundación se compromete con la independencia técnica, la transparencia en el uso de sus recursos y la difusión libre de sus resultados.
+Antofagsata, julio 2026

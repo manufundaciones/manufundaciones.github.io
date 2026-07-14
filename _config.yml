@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Centro de Estudios Alcalde Poblete
+title: Repositorio de Investigación
 description: Investigación sobre los impactos de la minería en los centros urbanos de la Región de Antofagasta
-author: Centro de Estudios Alcalde Poblete
+author: Manuel Alejandro Marambio Marambio
 email: manuel.a.marambio@gmail.com
-# twitter_username: AlcaldePoblete
-github_username: manufundaciones
+twitter_username: Manuel_Marambio
+# github_username: manufundaciones
 
 # Build settings
 theme: minima
@@ -31,7 +31,7 @@ plugins:
   - jekyll-feed
 
   
-logo: /assets/images/logo.png
+logo: /assets/images/logo_investigacion.svg
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

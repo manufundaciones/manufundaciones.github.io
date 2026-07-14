@@ -1,0 +1,32 @@
+<svg width="640" height="220" viewBox="0 0 640 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="darkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon: geometric mark combining a magnifying lens with concentric/data rings -->
+  <g transform="translate(30,30)">
+    <!-- outer hexagon frame -->
+    <polygon points="80,4 148,42 148,118 80,156 12,118 12,42"
+             fill="none" stroke="url(#darkGrad)" stroke-width="6" stroke-linejoin="round"/>
+
+    <!-- inner geometric lens shape -->
+    <circle cx="70" cy="72" r="34" fill="none" stroke="#1e293b" stroke-width="8"/>
+    <circle cx="70" cy="72" r="18" fill="#0f172a"/>
+
+    <!-- handle of the magnifying glass, angled to feel like a check/arrow (investigation = precision) -->
+    <line x1="96" y1="98" x2="128" y2="130" stroke="#1e293b" stroke-width="10" stroke-linecap="round"/>
+
+    <!-- small orbiting node accents (data points) -->
+    <circle cx="70" cy="20" r="5" fill="#334155"/>
+    <circle cx="30" cy="95" r="5" fill="#334155"/>
+    <circle cx="110" cy="95" r="5" fill="#334155"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="230" y="112" font-family="'Helvetica Neue', Arial, sans-serif" font-size="52"
+        font-weight="600" letter-spacing="1" fill="#0f172a">Investigación</text>
+  <rect x="232" y="128" width="300" height="4" fill="#334155"/>
+</svg>
